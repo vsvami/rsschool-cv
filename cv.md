@@ -1,5 +1,5 @@
 # Vladimir Dmitriev
-======
+-----
 ## Pre-junior Frontend Developer
 -----
 ## Contact information:
